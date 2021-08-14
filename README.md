@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Learning on **Web Development**
+- 🔭 I’m currently Learning  **Web Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
