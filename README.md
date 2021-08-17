@@ -33,17 +33,17 @@
 
   <br/>
     <a href="https://github.com/Amitesh32002/github-readme-stats"><img alt="Amitesh Keshari Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amitesh32002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Amitesh32002/github-readme-stats"><img alt="Amitesh KeshariTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitesh32002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Amitesh32002/github-readme-stats"><img alt="Amitesh Keshari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitesh32002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
 
 <br/>
-<br/>
+<!-- <br/>
 
-<a href="https://github.com/Amitesh32002/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amitesh32002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Amitesh32002/github-readme-activity-graph"><img alt="Amitesh Keshari Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amitesh32002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
+<br/> -->
 <br/>
 
 ## Connect with me:
