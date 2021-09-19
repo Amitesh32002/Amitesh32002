@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 How to reach me **amiteshkeshari2002@gmail.com**
 
 ## Languages and Tools
